@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @YaghoJP
-- 👀 I’m interested in books, movies and games
-- 🌱 I’m currently learning game development 💻
+👋 Hi, I’m @YaghoJP  
+🎮 Game development learner  
+🔐 Cybersecurity enthusiast  
+📚 Books, movies and games
 
 <!---
 YaghoJP/YaghoJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
