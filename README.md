@@ -1,7 +1,7 @@
-👋 Hi, I’m @YaghoJP  
-🎮 Game development learner  
-🔐 Cybersecurity enthusiast  
-📚 Books, movies and games
+👋 Hi, I’m @YaghoJP
+🌐 Web development learner
+🔐 Cybersecurity enthusiast
+📚 I enjoy books, movies and games
 
 <!---
 YaghoJP/YaghoJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
